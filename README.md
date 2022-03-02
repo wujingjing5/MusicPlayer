@@ -10,24 +10,32 @@
     使用pubsub.js消息的发布订阅，进行组件间数据的传递
     
 效果展示：
+
 首页
+
 ![image](https://github.com/wujingjing5/musicplayer/blob/master/resultShow/home.png)
+
+登录页
+
+![image](https://github.com/wujingjing5/musicplayer/blob/master/resultShow/login.png)
     
 个人中心页（已登录）
+
 ![image](https://github.com/wujingjing5/musicplayer/blob/master/resultShow/personnal.png)
     
 个人中心页（未登录）
+
 ![image](https://github.com/wujingjing5/musicplayer/blob/master/resultShow/personal_unlogin.png)
     
 视频页
-![image](https://github.com/wujingjing5/musicplayer/blob/master/resultShow/video.png)
 
-登录页
-![image](https://github.com/wujingjing5/musicplayer/blob/master/resultShow/login.png)
+![image](https://github.com/wujingjing5/musicplayer/blob/master/resultShow/video.png)
     
 歌曲推荐页
+
 ![image](https://github.com/wujingjing5/musicplayer/blob/master/resultShow/recommend.png)
     
 歌曲播放页
+
 ![image](https://github.com/wujingjing5/musicplayer/blob/master/resultShow/song.png)
     
